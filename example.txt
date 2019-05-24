@@ -1,10 +1,8 @@
-Once upon a time there was a good programmer who used git. He committed
-regularly and wrote useful messages.
+Once upon a time there was a programmer. But he didn't ever use git! After all,
+he was a good programmer and didn't need to. 
 
-One day, he wrote buggy code! But thankfully he was able to reset to an
-earlier commit. Instead of having to rewrite his entire project, he was
-able to just restart the buggy feature.
+But one day, he made a mistake and wrote buggy code. He searched for hours for
+his bug, but couldn't figure it out.
 
-
-write an ending here
-He submitted his work on time and went to sleep. The End.
+Write an ending to the story!
+Unfortunately, he couldn't figure it out by the due date. Not sucumbing to his urges, the programmer decided not to cheat and took the zero like a man. The end.
